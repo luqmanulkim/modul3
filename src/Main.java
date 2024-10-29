@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Kelas Task digunakan untuk merepresentasikan tugas yang memiliki nama dan status penyelesaian.
  */
 class Task {
-    private String name;
+    private final String name;
     private boolean isCompleted;
 
     /**
