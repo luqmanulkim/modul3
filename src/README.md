@@ -27,4 +27,4 @@ Setelah program berjalan, Anda akan melihat menu utama dengan opsi berikut:
 1. Tambah Tugas: Masukkan nama tugas untuk menambah tugas baru ke daftar.
 2. Tandai Tugas Selesai: Masukkan nomor tugas yang telah diselesaikan.
 3. Tampilkan Daftar Tugas: Menampilkan seluruh tugas dengan statusnya.
-4. Keluar: Untuk keluar dari aplikasi.
+Keluar: Untuk keluar dari aplikasi.
